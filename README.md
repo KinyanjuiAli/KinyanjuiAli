@@ -1,37 +1,24 @@
-# 👋🏽 Hussein_Cyber
+# Hi there, I'm Hussein! 👋
 
-**Aspiring Cybersecurity Analyst | BA Student in Economics, Mathematics & Sociology**
+## 🌟 About Me
+- 🎓 **BA Economics & Mathematics** | Self-taught Cybersecurity Enthusiast
+- 💻 Aspiring **Cyber Threat Intelligence Analyst**
+- 📚 Actively learning **C programming**, **Python**, and **Linux**
+- 🌐 Exploring **networking** through CCNA
 
----
+## 🔍 Current Focus
+- 🌟 Deepening my **C programming** skills
+- 🌐 Beginning **CCNA** to understand and manage computer networks
+- 📖 Learning consistently, avoiding shortcuts, and building solid foundations
 
-### 🌱 About Me
+## ✨ Notable Projects
+- [**C_Projects**](https://github.com/KinyanjuiAli/C_Projects): A collection of beginner-to-intermediate C programming projects.
+- [**SecureVault-CLI**](https://github.com/KinyanjuiAli/securevault-cli): A command-line interface tool for secure file storage.
 
-I’m currently on a disciplined journey mastering **C programming** and **networking** (starting with CCNA).  
-I’m self-teaching my way into **Cyber Threat Intelligence**, grounded in logic, ethics, and purpose.
+## 🌱 Personal Philosophy
+> _"And say, 'My Lord, increase me in knowledge.'"_
+> — Surah Taha (20:114)
 
----
-
-### 🎯 Goals
-
-- Become proficient in C, Python, Linux & networking by the end of 2025  
-- Contribute to open-source cybersecurity tools  
-- Build a practical, Quran-guided ethical approach to digital defense  
-
----
-
-### 🛠 Current Focus
-
-- 🧠 Deepening C programming skills  
-- 🌐 Beginning CCNA to understand computer networks  
-- 📚 Learning consistently, building slowly, avoiding shortcuts  
-
----
-
-### 💡 Verse I Live By
-
-> **_"And say, 'My Lord, increase me in knowledge.'"_**  
-> — *Surah Taha (20:114)*
-
----
-
-### 🤝 Let’s Build Security with Sincerity.
+## 📫 Connect With Me
+- 🌍 Nairobi, Kenya
+- 📧 Email: husseinkinyashali@gmail.com
